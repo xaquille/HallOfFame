@@ -4,12 +4,12 @@
 
   <title>Report a security vulnerability</title>
 
-  <meta name="description" content="At Bhinneka, we take security issues seriously. If you believe you’ve detected a vulnerability within our products we’d like to hear about it.">
+  <meta name="description" content="At HallOfFame, we take security issues seriously. If you believe you’ve detected a vulnerability within our products we’d like to hear about it.">
 
   <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
   <link rel="stylesheet" media="all" href="sec-application.css" id="stylesheet">
   <link rel="stylesheet" type="text/css" href="sec-style.css">
-  <link rel="shortcut icon" type="image/x-icon" href="bhinneka-logo.svg">
+  <link rel="shortcut icon" type="image/x-icon" href="HallOfFame-logo.svg">
 
   
 
@@ -30,7 +30,7 @@
     <header class="header">
 
       <div class="brand">
-        <a href="http://www.Bhinneka.com/"><img class="logo" alt="Bhinneka" src="bhinneka-logo.svg"></a>
+        <a href="http://www.HallOfFame.com/"><img class="logo" alt="HallOfFame" src="HallOfFame-logo.svg"></a>
       </div>
 
       <div class="header-title">

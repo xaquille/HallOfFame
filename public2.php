@@ -3,7 +3,7 @@
   
   <title>Report a security vulnerability</title>
 
-  <meta name="description" content="At Bhinneka, we take security issues seriously. If you believe you’ve detected a vulnerability within our products we’d like to hear about it.">
+  <meta name="description" content="At HallOfFame, we take security issues seriously. If you believe you’ve detected a vulnerability within our products we’d like to hear about it.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -12,7 +12,7 @@
   <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
   <link rel="stylesheet" media="all" href="sec-application.css" id="stylesheet">
   <link rel="stylesheet" type="text/css" href="sec-style.css">
-  <link rel="shortcut icon" type="image/x-icon" href="bhinneka-logo.svg">
+  <link rel="shortcut icon" type="image/x-icon" href="HallOfFame-logo.svg">
  
   
   <!-- add code here that should appear in the document head -->
@@ -30,7 +30,7 @@
     <header class="header">
 
       <div class="brand">
-        <a href="http://www.Bhinneka.com/"><img class="logo" alt="Bhinneka" src="bhinneka-logo.svg"></a>
+        <a href="http://www.HallOfFame.com/"><img class="logo" alt="HallOfFame" src="HallOfFame-logo.svg"></a>
       </div>
 
       <div class="header-title">
@@ -50,7 +50,7 @@
 
 <article>
    <header class="knowledge-page-header">
-    <h1><center><b>Thanks to Keeping Bhinneka stay Secure</center></b></h1>
+    <h1><center><b>Thanks to Keeping HallOfFame stay Secure</center></b></h1>
   </header>
   
   <div class="clearfix"></div>
@@ -135,6 +135,6 @@ function showhunter($db){
 <br>
 <br>
 <br>
-<footer><center><img src="bhinneka-logo-grey.png" width="200" height="50"/><br>
-<font color="grey" size="2"><a href="mailto:bugbounty@bhinneka.com">bugbounty@bhinneka.com</a></font></center></footer>
+<footer><center><img src="HallOfFame-logo-grey.png" width="200" height="50"/><br>
+<font color="grey" size="2"><a href="mailto:bugbounty@HallOfFame.com">bugbounty@HallOfFame.com</a></font></center></footer>
     
